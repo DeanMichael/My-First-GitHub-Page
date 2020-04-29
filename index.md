@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Time to see what GitHub Pages is all about
 
-I'm glad you are here. I plan to talk about ...
+Was hoping for more traditional domains with dynamic sites but I will forge on.
+
+
